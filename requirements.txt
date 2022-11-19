@@ -1,0 +1,1 @@
+!pip install pytrends==4.8.0
