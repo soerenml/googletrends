@@ -13,6 +13,6 @@ docker run \
     -v /Users/soeren/code/googletrends/googletrends/:/app \
     python-docker:simple \
     --search_term=Ukraine \
-    --start_time=2016-12-14 \
+    --start_time=2016-12-13 \
     --end_time=2022-01-11 \
     --export_target=/Users/soeren/Desktop/data.csv
